@@ -1,0 +1,2 @@
+# EV-Battery-Range-Prediction-using-Arudino-UNO-and-ML
+This project introduces an Electric Vehicle Battery Range Predictor that leverages ML algorithms to estimate the remaining range based  on various input parameters. The system integrates sensor  inputs, including current, voltage, speed, temperature, and  state of charge (SOC), obtained through potentiometers, to  simulate real-world conditions.
